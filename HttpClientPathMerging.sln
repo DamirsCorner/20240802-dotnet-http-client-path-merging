@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientPathMerging", "HttpClientPathMerging\HttpClientPathMerging.csproj", "{B5C02EF4-878A-48BC-AAF2-96BCFCFF0A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientPathMerging.Tests", "HttpClientPathMerging.Tests\HttpClientPathMerging.Tests.csproj", "{DEED3B8B-AB5F-4E26-ABB8-B93835A36EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C02EF4-878A-48BC-AAF2-96BCFCFF0A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C02EF4-878A-48BC-AAF2-96BCFCFF0A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C02EF4-878A-48BC-AAF2-96BCFCFF0A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C02EF4-878A-48BC-AAF2-96BCFCFF0A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEED3B8B-AB5F-4E26-ABB8-B93835A36EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEED3B8B-AB5F-4E26-ABB8-B93835A36EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEED3B8B-AB5F-4E26-ABB8-B93835A36EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEED3B8B-AB5F-4E26-ABB8-B93835A36EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4623AABB-3C94-42E7-BA89-B5107ABBE88E}
+	EndGlobalSection
+EndGlobal

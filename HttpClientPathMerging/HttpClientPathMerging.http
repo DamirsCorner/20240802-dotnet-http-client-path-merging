@@ -1,0 +1,6 @@
+@HttpClientPathMerging_HostAddress = http://localhost:5045
+
+GET {{HttpClientPathMerging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
